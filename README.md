@@ -80,7 +80,7 @@ To deliver business value, the data was visualized using **Power BI**:
 - Connected Power BI to **Azure Synapse Analytics**  
 - Designed interactive **dashboards and reports**  
 - Shared actionable insights with business stakeholders  
-![image alt]()
+![image alt](https://github.com/MRUDULA007/Azure-Data-Engineering-Project/blob/1a7bc6b1c8c38c50457844fee966477488fb3c22/pbi%201.png)
 ---
 
 ## 🌟 Key Highlights
